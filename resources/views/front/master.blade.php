@@ -117,6 +117,7 @@ ol.progtrckr li.progtrckr-todo:before {
 							<li><a href="{{url('/logout')}}">LOGOUT</a></li>
 							@else
 							<li><a href="{{url('/login')}}">LOGIN</a></li>
+              <li><a href="{{url('/register')}}">REGISTER</a></li>
 							@endif
 							<li><a onclick="javascript:showDiv('slidingDiv');"
 								 href="javascript:;">SEARCH</a>

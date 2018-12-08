@@ -1,5 +1,8 @@
 @extends('layouts.app')
-
+<link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet" type="text/css">
+<link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="{{ URL::asset('js/jquery-1.11.3.js') }}"></script>
 @section('content')
 <div class="container">
     <div class="row">

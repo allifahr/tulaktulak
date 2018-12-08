@@ -44,7 +44,7 @@
   			       <ul>
   			          <li><a href="{{url('/')}}">Home </a></li>
                    <li><span class="dot">/</span>
-                    <a href="">cart</a>
+                    <a href="">Cart</a>
   			        </ul>
               </div>
            </div>

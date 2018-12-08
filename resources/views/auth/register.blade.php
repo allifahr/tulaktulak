@@ -10,7 +10,7 @@
 			       <ul>
 			          <li><a href="{{url('/')}}">Home </a></li>
                  <li><span class="dot">/</span>
-			             <li><a href="">Login</a></li>
+			             <li><a href="">Register</a></li>
 			        </ul>
             </div>
          </div>
